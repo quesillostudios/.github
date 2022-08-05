@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./icon/quesillostudioslogo.svg" width="128" />
+<img src="https://github.com/quesillostudios/.github/blob/main/profile/icon/quesillostudioslogo.svg" width="128" />
 
 # Quesillo Studios
 
